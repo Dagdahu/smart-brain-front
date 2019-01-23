@@ -1,0 +1,9 @@
+.image-wrapper {
+    position: relative;
+}
+
+.bounding-box {
+    position: absolute;
+    box-shadow: 0 0 0 3px rgb(34, 34, 131) inset;
+    cursor: pointer;
+}
